@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shindevelop95&hide=stars&show_icons=true&theme=onedark" />
 
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shindevelop95&layout=compact" />
+
 </details>
 
 [website]: https://shinwang.io
