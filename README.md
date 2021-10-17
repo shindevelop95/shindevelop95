@@ -37,11 +37,13 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-:zap: GitHub Stats
+### :zap: GitHub Stats
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shindevelop95&hide=stars&show_icons=true&theme=onedark" />
 
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shindevelop95&layout=compact" />
+<br />
+<br />
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shindevelop95&layout=compact&theme=onedark" />
 
 </details>
 
