@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shinwang.io/)
+[![Website](https://img.shields.io/website?label=shinwang.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shinwang.io/)
 
 ### Hi there 👋
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <br />
 
-[website]: https://codeSTACKr.com
+[website]: https://shinwang.io
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
