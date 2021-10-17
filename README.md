@@ -39,11 +39,12 @@ Here are some ideas to get you started:
 
 ### :zap: GitHub Stats
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shindevelop95&hide=stars&show_icons=true&theme=onedark" />
+  <img align="left" alt="Shin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shindevelop95&hide=stars&show_icons=true&theme=onedark" />
 
 <br />
 <br />
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shindevelop95&layout=compact&theme=onedark" />
+
+   <img align="left" alt="Shin's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shindevelop95&layout=compact&theme=onedark" />
 
 </details>
 
