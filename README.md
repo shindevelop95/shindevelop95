@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+:zap: GitHub Stats
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shindevelop95&show_icons=true&theme=onedark" />
 
