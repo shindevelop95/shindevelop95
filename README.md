@@ -4,12 +4,12 @@
 
 Here are some ideas to get you started:
 
-### I'm a final year university study and developer 👋
+### I'm a final year university undergraduate 👋
 
 - 🔭 I’m currently working on a project called Nexter
 - 🌱 I’m currently learning Reactjs, TypeScript, SASS and the MVC architecture
 - 👯 I’m looking to collaborate with other Javascript developer on some fun projects
-- 🤔 I’m looking for help with ReactJS ESS6
+- 🤔 I’m looking for help with ReactJS ES6
 - 👔 Goal of 2020: Start working in a company as a developer that using javascript stack
 - 😄 Pronouns: Address me as Shin, or Xin long
 - ⚡ Fun fact: I'm a fitness enthusiast, and model, went to several fitness competitions and also fashion shows
